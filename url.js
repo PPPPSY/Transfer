@@ -7,8 +7,8 @@
  */
 
 
-const urls = [https://www.surveycake.com/s/34Xek,
-	      https://www.surveycake.com/s/LPOmp,
-	      https://www.surveycake.com/s/4L2N9
+const urls = ['https://www.surveycake.com/s/34Xek',
+	      'https://www.surveycake.com/s/LPOmp',
+	      'https://www.surveycake.com/s/4L2N9'
 	
 ];
